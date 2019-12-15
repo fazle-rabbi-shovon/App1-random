@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application  Own1</string>
+
+    <string name="button_id">Button</string>
+    <string name="text1_id">TextView</string>
+    <string name="pass_string_id">please enter your id</string>
+    <string name="dob">Date of Birth :</string>
+    <string name="gender">Gender :</string>
+    <string name="nationality">Nationality :</string>
+    <string name="sa_citeizen">SA CITIZEN</string>
+    <string name="pr_citizen">PERMANENT CITIZEN</string>
+    <string name="fml">Female</string>
+    <string name="ml">Male</string>
+</resources>
